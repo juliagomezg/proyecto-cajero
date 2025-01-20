@@ -1,8 +1,26 @@
-# React + Vite
+# 🏦 Proyecto Cajero
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación interactiva para registrar transacciones de depósitos y retiros.
 
-Currently, two official plugins are available:
+## 🚀 Características
+- Registro dinámico de transacciones.
+- Fondo corporativo con diseño moderno.
+- Experiencia de usuario mejorada con emojis dinámicos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Instalación
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/juliagomezg/proyecto-cajero.git
+Instala las dependencias:
+bash
+Copiar
+Editar
+npm install
+Ejecuta el proyecto:
+bash
+Copiar
+Editar
+npm run dev
+🌐 Despliegue
+Prueba la aplicación aquí: Enlace del despliegue.
+

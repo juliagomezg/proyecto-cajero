@@ -11,8 +11,7 @@ Una aplicación interactiva para registrar transacciones de depósitos y retiros
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/juliagomezg/proyecto-cajero.git
-Instala las dependencias:
-##
+## Instala las dependencias:
 npm install
 ## Ejecuta el proyecto:
 npm run dev
